@@ -2,7 +2,7 @@
 - 👀 I’m interested in data science, music, movies, and lifestyle trends.
 SQL, Python for data analysis, and how to apply machine learning to real-world problems.
 - 💞️ I’m looking to collaborate on data science projects related to biology, entertainment analytics, or anything creative and impactful.
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/ramida-r-274145363)
+- 📫 How to reach me: [IG](https://www.instagram.com/jessixcrd?igsh=MWp6cXBtYWkzMnFq&utm_source=qr)
 - 😄 Pronouns: they/them
 - ⚡ Fun fact: I love exploring how music and movies reflect data patterns — from soundtrack trends to audience behavior!
 
